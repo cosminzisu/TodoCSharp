@@ -1,0 +1,4 @@
+Sarcina "Sarcina 1" cu dificultatea "Scazuta" este "Nefinalizata"
+Sarcina "Sarcina 2" cu dificultatea "Scazuta" este "Nefinalizata"
+Sarcina "Sarcina 3" cu dificultatea "Medie" este "Nefinalizata"
+Sarcina "Jogging" cu dificultatea "Inalta" este "Nefinalizata"

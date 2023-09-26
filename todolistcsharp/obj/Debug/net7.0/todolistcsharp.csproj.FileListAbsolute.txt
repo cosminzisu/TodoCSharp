@@ -1,0 +1,14 @@
+C:\Users\zisucosmin\Desktop\todolistcsharp\obj\Debug\net7.0\todolistcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zisucosmin\Desktop\todolistcsharp\obj\Debug\net7.0\todolistcsharp.AssemblyInfoInputs.cache
+C:\Users\zisucosmin\Desktop\todolistcsharp\obj\Debug\net7.0\todolistcsharp.AssemblyInfo.cs
+C:\Users\zisucosmin\Desktop\todolistcsharp\obj\Debug\net7.0\todolistcsharp.csproj.CoreCompileInputs.cache
+C:\Users\zisucosmin\Desktop\todolistcsharp\bin\Debug\net7.0\todolistcsharp.exe
+C:\Users\zisucosmin\Desktop\todolistcsharp\bin\Debug\net7.0\todolistcsharp.deps.json
+C:\Users\zisucosmin\Desktop\todolistcsharp\bin\Debug\net7.0\todolistcsharp.runtimeconfig.json
+C:\Users\zisucosmin\Desktop\todolistcsharp\bin\Debug\net7.0\todolistcsharp.dll
+C:\Users\zisucosmin\Desktop\todolistcsharp\bin\Debug\net7.0\todolistcsharp.pdb
+C:\Users\zisucosmin\Desktop\todolistcsharp\obj\Debug\net7.0\todolistcsharp.dll
+C:\Users\zisucosmin\Desktop\todolistcsharp\obj\Debug\net7.0\refint\todolistcsharp.dll
+C:\Users\zisucosmin\Desktop\todolistcsharp\obj\Debug\net7.0\todolistcsharp.pdb
+C:\Users\zisucosmin\Desktop\todolistcsharp\obj\Debug\net7.0\todolistcsharp.genruntimeconfig.cache
+C:\Users\zisucosmin\Desktop\todolistcsharp\obj\Debug\net7.0\ref\todolistcsharp.dll
